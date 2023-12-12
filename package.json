@@ -1,0 +1,24 @@
+{
+    "name": "trello-powerup-backend",
+    "version": "1.0.0",
+    "description": "Backend para Power-Up do Trello que interage com a API do Trello e fornece dados para um site WordPress",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Lucas Oliveira",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "cors": "^2.8.5",
+        "docxtemplater": "^3.42.4",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "git": "^0.1.5",
+        "jszip": "^3.10.1",
+        "muhammara": "^4.0.0",
+        "node-fetch": "^2.7.0",
+        "pdfkit": "^0.14.0",
+        "pdfmake": "^0.2.8"
+    }
+}

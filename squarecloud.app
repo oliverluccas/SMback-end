@@ -1,0 +1,5 @@
+DISPLAY_NAME= NextPower-UP
+MAIN=app.js
+MEMORY=128
+VERSION=recommended
+DESCRIPTION=
